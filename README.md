@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmaherelsaeidi" alt="ahmedmaherelsaeidi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_ahmed__maher" target="blank"><img src="https://img.shields.io/twitter/follow/_ahmed__maher?logo=twitter&style=for-the-badge" alt="_ahmed__maher" /></a> </p>
-
 - 📄 Know about my experiences [https://ahmedmaherelsaeidi.github.io/GPACalc/views/about.html](https://ahmedmaherelsaeidi.github.io/GPACalc/views/about.html)
 
 <h3 align="left">Connect with me:</h3>
