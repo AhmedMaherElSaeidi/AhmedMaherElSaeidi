@@ -43,6 +43,14 @@
         height="30"
         width="40"
     /></a>
+    <a href="https://open.spotify.com/user/ahmedmaher69?fbclid=IwAR3POfVPAYSua3RBoNrrkGnAca7e23UVCq8FoDl2MxII5PEG7Mw1pjkVglE" target="blank"
+      ><img
+        align="center"
+        src="https://play-lh.googleusercontent.com/eN0IexSzxpUDMfFtm-OyM-nNs44Y74Q3k51bxAMhTvrTnuA4OGnTi_fodN4cl-XxDQc"
+        alt="ahmedmaher69"
+        height="30"
+        width="40"
+    /></a>
     <a href="https://twitter.com/_ahmed__maher" target="blank"
       ><img
         align="center"
