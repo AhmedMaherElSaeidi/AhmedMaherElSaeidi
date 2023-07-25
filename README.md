@@ -199,12 +199,7 @@
       />
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://repository-images.githubusercontent.com/232512685/70107a80-31f8-11ea-9436-66c4dc25c0e2"
-        alt="express"
-        width="40"
-        height="40"
-      />
+      <p width="40" height="40" style="color:red;font-weight:bold;">Express</p>
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
       <img
