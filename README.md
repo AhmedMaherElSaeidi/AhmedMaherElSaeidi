@@ -46,7 +46,7 @@
     <a href="https://open.spotify.com/user/ahmedmaher69?fbclid=IwAR3POfVPAYSua3RBoNrrkGnAca7e23UVCq8FoDl2MxII5PEG7Mw1pjkVglE" target="blank"
       ><img
         align="center"
-        src="https://play-lh.googleusercontent.com/eN0IexSzxpUDMfFtm-OyM-nNs44Y74Q3k51bxAMhTvrTnuA4OGnTi_fodN4cl-XxDQc"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png"
         alt="ahmedmaher69"
         height="30"
         width="40"
