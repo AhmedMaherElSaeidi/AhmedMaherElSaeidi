@@ -7,12 +7,11 @@
     <p>
       <a href="https://git.io/typing-svg"
         ><img
-          src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=1200&size=28&duration=2500&pause=250&color=DC0DC9&center=true&vCenter=true&multiline=true&repeat=false&width=920&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Maher.;+A+passionate+Software+engineering+Learner+from+Egypt."
+          src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=1200&size=28&duration=2500&pause=250&color=145FCA&center=true&vCenter=true&multiline=true&repeat=false&width=920&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Maher.;+A+passionate+Software+engineering+Learner+from+Egypt."
           alt="Typing SVG"
       /></a>
     </p>
   </section>
-  <br />
   <section align="left">
     <h3 align="left">Connect with me:</h3>
     <a href="https://kaggle.com/ahmedmaherelsaeidy" target="blank"
