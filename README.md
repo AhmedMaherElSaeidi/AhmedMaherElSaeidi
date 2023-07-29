@@ -1,6 +1,18 @@
 <body>
   <section align="center">
     <img
+      style="
+        height: 120px;
+        width: 120px;
+        border-radius: 50%;
+        display: block;
+        margin: auto;
+        padding: 12px 0px;
+      "
+      src="https://avatars.githubusercontent.com/u/97059933?v=4"
+      alt="Ahmed_Maher"
+    />
+    <img
       src="https://komarev.com/ghpvc/?username=ahmedmaherelsaeidi&label=Profile%20views&color=0e75b6&style=flat"
       alt="ahmedmaherelsaeidi"
     />
