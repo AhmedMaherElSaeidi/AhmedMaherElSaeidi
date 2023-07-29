@@ -4,8 +4,16 @@
       src="https://komarev.com/ghpvc/?username=ahmedmaherelsaeidi&label=Profile%20views&color=0e75b6&style=flat"
       alt="ahmedmaherelsaeidi"
     />
-    <h1>Hi 👋, I'm Ahmed Maher</h1>
-    <h3>A passionate Software engineering Learner from Egypt</h3>
+    <a href="https://git.io/typing-svg"
+      ><img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&color=146DB8&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Maher"
+        alt="Typing SVG"
+    /></a>
+    <a href="https://git.io/typing-svg"
+      ><img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=146DB8&repeat=false&width=720&lines=A+passionate+Software+engineering+Learner+from+Egypt."
+        alt="Typing SVG"
+    /></a>
   </section>
   <br />
   <section align="left">
@@ -25,7 +33,8 @@
         alt="ahmedmaherelsaeidi"
         height="30"
         width="40"
-    /></a>    <a
+    /></a>
+    <a
       href="https://www.hackerrank.com/https://www.hackerrank.com/ahmedelseaidy22?hr_r=1"
       target="blank"
       ><img
@@ -43,7 +52,9 @@
         height="30"
         width="40"
     /></a>
-    <a href="https://open.spotify.com/user/ahmedmaher69?fbclid=IwAR3POfVPAYSua3RBoNrrkGnAca7e23UVCq8FoDl2MxII5PEG7Mw1pjkVglE" target="blank"
+    <a
+      href="https://open.spotify.com/user/ahmedmaher69?fbclid=IwAR3POfVPAYSua3RBoNrrkGnAca7e23UVCq8FoDl2MxII5PEG7Mw1pjkVglE"
+      target="blank"
       ><img
         align="center"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png"
