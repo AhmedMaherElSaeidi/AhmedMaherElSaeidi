@@ -12,7 +12,7 @@
         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&color=146DB8&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Maher"
         alt="Typing SVG"
     /></a>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=146DB8&repeat=false&width=720&lines=A+passionate+Software+engineering+Learner+from+Egypt.)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=146DB8&repeat=false&width=720&lines=A+passionate+Software+engineering+Learner+from+Egypt." alt="Typing SVG" /></a>
   </section>
   <br />
   <section align="left">
