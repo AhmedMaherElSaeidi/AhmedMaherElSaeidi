@@ -4,20 +4,10 @@
       src="https://komarev.com/ghpvc/?username=ahmedmaherelsaeidi&label=Profile%20views&color=0e75b6&style=flat"
       alt="ahmedmaherelsaeidi"
     />
-  </section>
-  <br />
-  <section align="center">
     <p>
       <a href="https://git.io/typing-svg"
         ><img
-          src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=6200&pause=1000&color=146DB8&center=true&vCenter=true&repeat=false&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Maher."
-          alt="Typing SVG"
-      /></a>
-    </p>
-    <p>
-      <a href="https://git.io/typing-svg"
-        ><img
-          src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=146DB8&repeat=false&width=720&lines=A+passionate+Software+engineering+Learner+from+Egypt."
+          src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=900&size=30&duration=2500&pause=250&color=DC0DC9&center=true&vCenter=true&multiline=true&repeat=false&width=920&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Maher.;+A+passionate+Software+engineering+Learner+from+Egypt."
           alt="Typing SVG"
       /></a>
     </p>
