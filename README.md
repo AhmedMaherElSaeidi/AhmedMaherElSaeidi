@@ -4,7 +4,9 @@
       src="https://komarev.com/ghpvc/?username=ahmedmaherelsaeidi&label=Profile%20views&color=0e75b6&style=flat"
       alt="ahmedmaherelsaeidi"
     />
-    <br />
+  </section>
+  <br />
+  <section align="center">
     <a href="https://git.io/typing-svg"
       ><img
         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&color=146DB8&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Maher"
