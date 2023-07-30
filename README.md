@@ -87,14 +87,6 @@
         height="40"
       />
     </a>
-    <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alteryx_logo.svg/800px-Alteryx_logo.svg.png"
-        alt="Alteryx"
-        width="90"
-        height="40"
-      />
-    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -268,6 +260,14 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql"
         width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alteryx_logo.svg/800px-Alteryx_logo.svg.png"
+        alt="Alteryx"
+        width="90"
         height="40"
       />
     </a>
