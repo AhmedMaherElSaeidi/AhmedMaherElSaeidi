@@ -91,7 +91,7 @@
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alteryx_logo.svg/800px-Alteryx_logo.svg.png"
         alt="Alteryx"
-        width="70"
+        width="90"
         height="40"
       />
     </a>
