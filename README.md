@@ -60,7 +60,7 @@
     <a href="https://twitter.com/_ahmed__maher" target="blank"
       ><img
         align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+        src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638258000530000000"
         alt="_ahmed__maher"
         height="30"
         width="40"
