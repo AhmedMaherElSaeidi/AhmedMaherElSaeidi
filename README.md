@@ -87,6 +87,14 @@
         height="40"
       />
     </a>
+    <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alteryx_logo.svg/800px-Alteryx_logo.svg.png"
+        alt="Alteryx"
+        width="70"
+        height="40"
+      />
+    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
