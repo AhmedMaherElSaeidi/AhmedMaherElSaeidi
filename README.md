@@ -63,7 +63,7 @@
         src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638258000530000000"
         alt="_ahmed__maher"
         height="30"
-        width="40"
+        width="30"
     /></a>
     <a
       href="https://www.youtube.com/channel/UCL3Kf6BwwiZyN723LfiEsCA"
