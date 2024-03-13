@@ -1,5 +1,3 @@
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-
 <body>
   <section align="center">
     <img
@@ -13,9 +11,13 @@
         alt="Typing SVG"
     /></a>
   </section>
-   <br />
+<section>
+  <br />
+  <img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png"></a>
+  <br />
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   <br />
+</section>
   <section align="left">
     <h2><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Connect with me</h3>
     <a href="https://kaggle.com/ahmedmaherelsaeidy" target="blank"
