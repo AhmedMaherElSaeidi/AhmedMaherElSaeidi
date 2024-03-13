@@ -1,11 +1,12 @@
 <body>
   <section align="center">
-    <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="65">
-    <br />
-    <img
+    <section>
+      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
+      <img
       src="https://komarev.com/ghpvc/?username=ahmedmaherelsaeidi&label=Profile%20views&color=A569BD&style=flat"
       alt="ahmedmaherelsaeidi"
     />
+    </section>
     <br />
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=24&duration=2500&pause=1000&color=A569BD&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=520&height=120&lines=Hi%2C+I'm+Ahmed+Maher;Passionate+Software+engineering+student+from+Egypt.;Machine+Learning+Engineer+Intern." alt="Typing SVG" /></a>
   </section>
