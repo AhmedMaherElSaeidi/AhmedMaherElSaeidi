@@ -275,6 +275,8 @@
     </a>
   </section>
   <br />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  <br />
   <section>
     <img
       align="center"
@@ -291,5 +293,5 @@
     /></a>
   </section>
   <br />
-  <!-- <section><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmaherelsaeidi&" alt="ahmedmaherelsaeidi" /></section> -->
+  <section><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmaherelsaeidi&" alt="ahmedmaherelsaeidi" /></section>
 </body>
