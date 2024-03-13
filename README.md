@@ -14,7 +14,7 @@
     /></a>
   </section>
   <section align="left">
-    <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Connect with me</h3>
+    <h2><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Connect with me</h3>
     <a href="https://kaggle.com/ahmedmaherelsaeidy" target="blank"
       ><img
         align="center"
