@@ -278,6 +278,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   <br />
   <section>
+    <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub stats</h2>
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmaherelsaeidi&show_icons=true&locale=en&layout=compact"
