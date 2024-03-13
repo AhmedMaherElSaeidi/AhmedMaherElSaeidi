@@ -289,8 +289,8 @@
    </section>
     <br />
     <section>
-      <span><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=tokyonight&hide_border=true"  width="420"/></span>
       <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMaherElSaeidi&theme=blueberry" width="380"/></span>
+      <span><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=tokyonight&hide_border=true"  width="520"/></span>
     </section>
   </section>
   <br />
