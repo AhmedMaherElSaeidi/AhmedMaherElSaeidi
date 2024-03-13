@@ -5,9 +5,8 @@
       alt="ahmedmaherelsaeidi"
     />
     <br />
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=24&duration=2500&pause=1000&color=A569BD&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=520&height=90&lines=Hi%2C+I'm+Ahmed+Maher;Passionate+Software+engineering+student+from+Egypt.;Machine+Learning+Engineer+Intern." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=24&duration=2500&pause=1000&color=A569BD&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=520&height=120&lines=Hi%2C+I'm+Ahmed+Maher;Passionate+Software+engineering+student+from+Egypt.;Machine+Learning+Engineer+Intern." alt="Typing SVG" /></a>
   </section>
-  <br />
   <section align="left">
     <h2><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Connect with me</h3>
     <br />
