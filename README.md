@@ -283,24 +283,21 @@
   <section>
     <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub stats</h2>
     <br />
-   <section>
-    <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMaherElSaeidi&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320" /></span>
-    <span><img src="https://github-readme-stats.vercel.app/api?username=AhmedMaherElSaeidi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/></span>
-   </section>
+    <section>
+      <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMaherElSaeidi&hide_border=true&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320" /></span>
+      <span><img src="https://github-readme-stats.vercel.app/api?username=AhmedMaherElSaeidi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&hide_border=true&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/></span>
+    </section>
     <br />
     <section>
-      <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMaherElSaeidi&theme=blueberry" width="380"/></span>
+      <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMaherElSaeidi&theme=blueberry&hide_border=true" width="380"/></span>
       <span><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=tokyonight&hide_border=true"  width="520"/></span>
     </section>
-  </section>
-  <br />
-  <section align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"
-      ><img
+    <br />
+    <section>
+      <a href="https://github.com/ryo-ma/github-profile-trophy"><img
         src="https://github-profile-trophy.vercel.app/?username=ahmedmaherelsaeidi"
         alt="ahmedmaherelsaeidi"
-    /></a>
-  </section>
-  <br />
-  <section><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmaherelsaeidi&" alt="ahmedmaherelsaeidi" /></section>
+      /></a>
+    </section>
+  </section>  
 </body>
