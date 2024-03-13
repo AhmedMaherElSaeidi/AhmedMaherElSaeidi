@@ -289,13 +289,13 @@
     </section>
     <br />
     <section>
-      <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMaherElSaeidi&theme=blueberry&hide_border=true" width="380"/></span>
-      <span><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=tokyonight&hide_border=true"  width="520"/></span>
+      <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMaherElSaeidi&theme=blueberry&hide_border=true" width="320"/></span>
+      <span><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=blueberry&hide_border=true"  width="420"/></span>
     </section>
     <br />
     <section>
       <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-        src="https://github-profile-trophy.vercel.app/?username=ahmedmaherelsaeidi"
+        src="https://github-profile-trophy.vercel.app/?username=ahmedmaherelsaeidi&theme=blueberry&hide_border=true"
         alt="ahmedmaherelsaeidi"
       /></a>
     </section>
