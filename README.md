@@ -7,13 +7,7 @@
     <br />
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=24&duration=2500&pause=1000&color=A569BD&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=520&height=120&lines=Hi%2C+I'm+Ahmed+Maher;Passionate+Software+engineering+student+from+Egypt.;Machine+Learning+Engineer+Intern." alt="Typing SVG" /></a>
   </section>
-<section>
   <br />
-  <img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png" width=100%></a>
-  <br />
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%></a>
-  <br />
-</section>
   <section align="left">
     <h2><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Connect with me</h3>
     <a href="https://kaggle.com/ahmedmaherelsaeidy" target="blank"
@@ -288,12 +282,11 @@
       <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMaherElSaeidi&theme=blueberry&hide_border=true" width="360"/></span>
       <span><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=blueberry&hide_border=true"  width="460"/></span>
     </section>
-<!--     <br />
+    <br />
     <section>
-      <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-        src="https://github-profile-trophy.vercel.app/?username=ahmedmaherelsaeidi&theme=blueberry&hide_border=true"
-        alt="ahmedmaherelsaeidi"
-      /></a>
-    </section> -->
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%></a>
+      <br />
+      <img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png" width=100%></a>
+    </section>
   </section>  
 </body>
