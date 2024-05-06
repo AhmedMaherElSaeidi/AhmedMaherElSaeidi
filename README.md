@@ -118,7 +118,7 @@
         <img
           src="https://miro.medium.com/v2/resize:fit:980/1*cWuvkF15QKOsTHtgyIaqOA.png"
           alt="git"
-          width="40"
+          width="60"
           height="40"
         />
       </a>
