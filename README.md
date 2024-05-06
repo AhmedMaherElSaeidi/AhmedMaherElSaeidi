@@ -116,7 +116,7 @@
       </a>
       <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
         <img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpff9NUZOFwwJ4D5tLweJ28vKN4iDM-XUipv-ik2xSQg&s"
+          src="https://miro.medium.com/v2/resize:fit:980/1*cWuvkF15QKOsTHtgyIaqOA.png"
           alt="git"
           width="40"
           height="40"
