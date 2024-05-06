@@ -114,9 +114,9 @@
           height="40"
         />
       </a>
-      <a href="https://flask.palletsprojects.com/en/3.0.x/" style="background-color:white;padding:1rem;" target="_blank" rel="noreferrer">
+      <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
         <img
-          src="https://cdn.worldvectorlogo.com/logos/flask.svg"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpff9NUZOFwwJ4D5tLweJ28vKN4iDM-XUipv-ik2xSQg&s"
           alt="git"
           width="40"
           height="40"
