@@ -116,7 +116,7 @@
       </a>
       <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
         <img
-          src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png"
+          src="https://www.svgrepo.com/show/473611/flask.svg"
           alt="git"
           width="40"
           height="40"
