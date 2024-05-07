@@ -105,7 +105,7 @@
       <a href="https://mariadb.org/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/354039/mariadb.svg" alt="MariaDB" height="50" width="50"/></a>
       <a href="https://github.com/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="github" height="50" width="50"/></a>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" height="50" width="50"/></a>
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/306534/pandas.svg" alt="Pandas" height="50" width="50" style="filter: grayscale(100%);/></a>
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="Pandas" height="50" width="50"/></a>
       <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="Numpy" height="50" width="50"/></a>
       <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/473778/scikitlearn.svg" alt="Sci-kit learn" height="50" width="50" style="filter: grayscale(100%);/></a>
       <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/375503/tensorflow-enterprise.svg" alt="Tensorflow" height="50" width="50"/></a>
