@@ -95,7 +95,7 @@
       <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java" height="50" width="50"/></a>
       <a href="https://nodejs.org/en" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" alt="NodeJs" height="50" width="50"/></a>
       <a href="https://www.php.net" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/373970/php3.svg" alt="PHP" height="50" width="50"/></a>
-      <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/508915/flask.svg" alt="Flask" height="50" width="50"/></a>
+      <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/508915/flask.svg" alt="Flask" height="50" width="50" style="filter: grayscale(100%);"/></a>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://blog.amt.in/wp-content/uploads/2017/12/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png" alt="Express" height="50" width="90"/></a>
       <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/354575/xampp.svg" alt="xampp" height="50" width="50"/></a>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" height="50" width="50"/></a>
@@ -105,9 +105,9 @@
       <a href="https://mariadb.org/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/354039/mariadb.svg" alt="MariaDB" height="50" width="50"/></a>
       <a href="https://github.com/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="github" height="50" width="50"/></a>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" height="50" width="50"/></a>
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/306534/pandas.svg" alt="Pandas" height="50" width="50"/></a>
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/306534/pandas.svg" alt="Pandas" height="50" width="50" style="filter: grayscale(100%);/></a>
       <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="Numpy" height="50" width="50"/></a>
-      <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/473778/scikitlearn.svg" alt="Sci-kit learn" height="50" width="50"/></a>
+      <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/473778/scikitlearn.svg" alt="Sci-kit learn" height="50" width="50" style="filter: grayscale(100%);/></a>
       <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/375503/tensorflow-enterprise.svg" alt="Tensorflow" height="50" width="50"/></a>
       <a href="https://www.jupyter.com/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="jupyter" height="50" width="50"/></a>
       <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/349422/kaggle.svg" alt="kaggle" height="50" width="50"/></a>
@@ -119,7 +119,7 @@
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/373968/photoshop.svg" alt="photoshop" height="50" width="50"/></a>
       <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/382713/windows-applications.svg" alt="Windows" height="50" width="50"/></a>
       <a href="https://ubuntu.com/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/354481/ubuntu.svg" alt="Ubuntu" height="50" width="50"/></a>
-      <a href="https://www.vmware.com/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/448684/vmware.svg" alt="vmware" height="50" width="50"/></a>
+      <a href="https://www.vmware.com/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/448684/vmware.svg" alt="vmware" height="50" width="50" style="filter: grayscale(100%);/></a>
     </section>
   </section>
   <br />
