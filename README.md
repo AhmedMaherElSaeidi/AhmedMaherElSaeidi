@@ -107,7 +107,7 @@
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/452210/git.svg" alt="git" height="50" width="50"/></a>
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="Pandas" height="50" width="50"/></a>
       <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="Numpy" height="50" width="50"/></a>
-      <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/600px-Vmware_workstation_16_icon.svg.png" alt="Sci-kit learn" height="50" width="90"/></a>
+      <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="Sci-kit learn" height="50" width="90"/></a>
       <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/375503/tensorflow-enterprise.svg" alt="Tensorflow" height="50" width="50"/></a>
       <a href="https://www.jupyter.com/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="jupyter" height="50" width="50"/></a>
       <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/349422/kaggle.svg" alt="kaggle" height="50" width="50"/></a>
@@ -119,7 +119,7 @@
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/373968/photoshop.svg" alt="photoshop" height="50" width="50"/></a>
       <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/382713/windows-applications.svg" alt="Windows" height="50" width="50"/></a>
       <a href="https://ubuntu.com/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/354481/ubuntu.svg" alt="Ubuntu" height="50" width="50"/></a>
-      <a href="https://www.vmware.com/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://www.svgrepo.com/show/448684/vmware.svg" alt="vmware" height="50" width="50"/></a>
+      <a href="https://www.vmware.com/" target="_blank" rel="noreferrer" style="margin-right: 0.5rem"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/600px-Vmware_workstation_16_icon.svg.png" alt="vmware" height="50" width="50"/></a>
     </section>
   </section>
   <br />
