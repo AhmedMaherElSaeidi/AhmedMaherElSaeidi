@@ -14,11 +14,14 @@
   </section>
   <br />
   <section align="center">
-    <img
-      src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"
-      width="35"
-    />
-    <hr />
+    <h2>
+      <img
+        src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"
+        width="35"
+      />
+      About me
+    </h2>
+    <br />
     <p color="#a569bd">
       I'm a Software Engineer who graduated from Helwan University in June 2024
       from the Faculty of Computers and Artificial Intelligence with a
