@@ -13,18 +13,18 @@
     /></a>
   </section>
   <br />
-  <section align="center" style="color: #a569bd">
+  <section align="center">
     <img
       src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"
       width="35"
     />
     <hr />
-    <p>
+    <p color="#a569bd">
       I'm a Software Engineer who graduated from Helwan University in June 2024
       from the Faculty of Computers and Artificial Intelligence with a
       cumulative GPA of 3.9 out of 4 (Canadian System).
     </p>
-    <p>
+    <p color="#a569bd">
       I possess two years of hands-on experience in web development. I have
       completed projects using React.js and Angular for the front end, with a
       solid understanding of DOM structure. On the backend, I've utilized
@@ -32,7 +32,7 @@
       including SQL (MySQL, SQL Server) and NoSQL (Firebase, MongoDB). I have
       also done desktop applications using Java, eg. Task Manager for Ubuntu OS.
     </p>
-    <p>
+    <p color="#a569bd">
       At the moment, I'm passionate about expanding my skill set into Machine
       Learning and Deep Learning. I have effectively implemented various
       machine-learning algorithms for applying regression and classification
