@@ -18,6 +18,7 @@
       src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"
       width="35"
     />
+    <hr />
     <p>
       I'm a Software Engineer who graduated from Helwan University in June 2024
       from the Faculty of Computers and Artificial Intelligence with a
@@ -41,7 +42,6 @@
       and segmenting images. These experiences underscore my commitment to
       leveraging cutting-edge technologies in solving real-world challenges.
     </p>
-    <hr />
   </section>
   <br />
   <section align="left">
