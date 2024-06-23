@@ -42,7 +42,7 @@
       <a href="https://twitter.com/_Ahmed__Maher" target="blank"
         ><img
           align="center"
-          src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg"
+          src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg"
           alt="_Ahmed__Maher"
           height="30"
           width="30"
