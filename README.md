@@ -105,29 +105,28 @@
     <br />
     <section align="center">
       <p color="#a569bd">
-        I'm a Software Engineer who graduated from Helwan University in June
-        2024 from the Faculty of Computers and Artificial Intelligence with a
-        cumulative GPA of 3.9 out of 4 (Canadian System).
+        I am a recent graduate software engineer from Helwan University. I
+        graduated in June 2024 from the Faculty of Computers and Artificial
+        Intelligence with a cumulative GPA of 3.9 out of 4 (Canadian System).
       </p>
       <p color="#a569bd">
-        I possess two years of hands-on experience in web development. I have
+        I have two years of hands-on experience in web development. I have
         completed projects using React.js and Angular for the front end, with a
         solid understanding of DOM structure. On the backend, I've utilized
         Node.js and PHP. My expertise extends to working with various databases,
-        including SQL (MySQL, SQL Server) and NoSQL (Firebase, MongoDB). I have
-        also done desktop applications using Java, eg. Task Manager for Ubuntu
-        OS.
+        including SQL (MySQL, SQL Server) and NoSQL (Firebase, MongoDB).
+        Additionally, I have developed desktop applications using Java GUI, such
+        as a Task Manager for the Ubuntu OS.
       </p>
       <p color="#a569bd">
-        At the moment, I'm passionate about expanding my skill set into Machine
-        Learning and Deep Learning. I have effectively implemented various
-        machine-learning algorithms for applying regression and classification
-        techniques. Additionally, I have applied preprocessing techniques to
-        optimize data for desired outcomes. Lately, I have dealt with libraries
-        like Tensorflow and OpenCV to do computer vision projects for
-        classifying and segmenting images. These experiences underscore my
-        commitment to leveraging cutting-edge technologies in solving real-world
-        challenges.
+        I am enthusiastic about expanding my Machine Learning and Deep Learning
+        skills. I have successfully implemented various machine-learning
+        algorithms for regression and classification. In addition, I have
+        applied preprocessing techniques to optimize data for the desired
+        outcomes. Recently, I have worked with libraries such as Tensorflow and
+        OpenCV to work on computer vision projects, which involved classifying
+        and segmenting images. These experiences highlight my dedication to
+        utilizing advanced technologies to solve real-world problems.
       </p>
     </section>
   </section>
