@@ -103,7 +103,7 @@
       About me
     </h2>
     <br />
-    <section align="center">
+    <section align="left">
       <p color="#a569bd">
         I am a recent graduate software engineer from Helwan University. I
         graduated in June 2024 from the Faculty of Computers and Artificial
