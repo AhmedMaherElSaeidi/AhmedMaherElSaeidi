@@ -23,11 +23,35 @@
     </h2>
     <br />
     <section align="center">
+      <a href="https://kaggle.com/ahmedmaherelsaeidy" target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+          alt="ahmedmaherelsaeidy kaggle"
+          height="30"
+          width="40"
+      /></a>
+      <a href="https://linkedin.com/in/ahmedmaherelsaeidi" target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+          alt="ahmedmaherelsaeidi linkedin"
+          height="30"
+          width="30"
+      /></a>
+      <a href="https://www.hackerrank.com/ahmedelseaidy22?hr_r=1" target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+          alt="https://www.hackerrank.com/ahmedelseaidy22?hr_r=1"
+          height="30"
+          width="30"
+      /></a>
       <a href="https://www.facebook.com/AhmedMaherElSaeidi/" target="blank"
         ><img
           align="center"
           src="https://www.svgrepo.com/show/475647/facebook-color.svg"
-          alt="AhmedMaherElSaeidi"
+          alt="AhmedMaherElSaeidi facebook"
           height="30"
           width="30"
       /></a>
@@ -35,7 +59,7 @@
         ><img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-          alt="ahmed_elsaeidi"
+          alt="ahmed_elsaeidi instagram"
           height="30"
           width="30"
       /></a>
@@ -43,17 +67,7 @@
         ><img
           align="center"
           src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg"
-          alt="_Ahmed__Maher"
-          height="30"
-          width="30"
-      /></a>
-      <a
-        href="https://open.spotify.com/user/ahmedmaher69?fbclid=IwAR3POfVPAYSua3RBoNrrkGnAca7e23UVCq8FoDl2MxII5PEG7Mw1pjkVglE"
-        target="blank"
-        ><img
-          align="center"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png"
-          alt="ahmedmaher69"
+          alt="_Ahmed__Maher twitter"
           height="30"
           width="30"
       /></a>
@@ -67,27 +81,13 @@
           height="30"
           width="40"
       /></a>
-      <a href="https://www.hackerrank.com/ahmedelseaidy22?hr_r=1" target="blank"
+      <a
+        href="https://open.spotify.com/user/ahmedmaher69?fbclid=IwAR3POfVPAYSua3RBoNrrkGnAca7e23UVCq8FoDl2MxII5PEG7Mw1pjkVglE"
+        target="blank"
         ><img
           align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-          alt="https://www.hackerrank.com/ahmedelseaidy22?hr_r=1"
-          height="30"
-          width="30"
-      /></a>
-      <a href="https://kaggle.com/ahmedmaherelsaeidy" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-          alt="ahmedmaherelsaeidy"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://linkedin.com/in/ahmedmaherelsaeidi" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          alt="ahmedmaherelsaeidi"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png"
+          alt="ahmedmaher69"
           height="30"
           width="30"
       /></a>
