@@ -105,28 +105,41 @@
     <br />
     <section align="left">
       <p color="#a569bd">
-        I am a recent graduate software engineer from Helwan University. I
-        graduated in June 2024 from the Faculty of Computers and Artificial
-        Intelligence with a cumulative GPA of 3.9 out of 4 (Canadian System).
+        I'm a Software Engineer from the Faculty of Computers and Artificial
+        Intelligence at Helwan University. I graduated in May 2024 with a
+        cumulative GPA of 3.94 out of 4.00 (Excellent), and an A+ (Excellent) in
+        my graduation project which focused on the detection of blood vessels
+        within kidney tissue using computer vision. I have a robust academic
+        record, demonstrating my commitment to learning and achieving tasks and
+        a proven ability to adapt to emerging technologies quickly.
       </p>
       <p color="#a569bd">
-        I have two years of hands-on experience in web development. I have
-        completed projects using React.js and Angular for the front end, with a
-        solid understanding of DOM structure. On the backend, I've utilized
-        Node.js and PHP. My expertise extends to working with various databases,
-        including SQL (MySQL, SQL Server) and NoSQL (Firebase, MongoDB).
-        Additionally, I have developed desktop applications using Java GUI, such
-        as a Task Manager for the Ubuntu OS.
+        I possess two years of practical experience in web development,
+        leveraging a diverse tech stack to deliver robust solutions. My
+        front-end expertise lies in React.js and Angular, with a strong
+        foundation in DOM manipulation. On the back-end, I'm experienced with
+        Node.js, and PHP, ensuring seamless data communication. Furthermore, I
+        have experience working with various relational (SQL) databases like
+        MySQL and SQL Server, alongside NoSQL solutions like Firebase and
+        MongoDB, allowing me to tailor data storage to project requirements.
+        Additionally, I've demonstrated proficiency in desktop application
+        development using Java GUI, having built a Task Manager application for
+        Ubuntu OS.
       </p>
       <p color="#a569bd">
-        I am enthusiastic about expanding my Machine Learning and Deep Learning
-        skills. I have successfully implemented various machine-learning
-        algorithms for regression and classification. In addition, I have
-        applied preprocessing techniques to optimize data for the desired
-        outcomes. Recently, I have worked with libraries such as Tensorflow and
-        OpenCV to work on computer vision projects, which involved classifying
-        and segmenting images. These experiences highlight my dedication to
-        utilizing advanced technologies to solve real-world problems.
+        I possess strong skills in Python, complemented by proficiency in data
+        analysis libraries such as NumPy, Pandas, and Matplotlib, enabling
+        effective data manipulation, exploration, and visualization. My
+        experience with Selenium for Python showcases my ability to automate web
+        browser interactions, streamlining testing processes. I am enthusiastic
+        about expanding my expertise in Machine Learning and Deep Learning. I
+        have successfully implemented various machine learning algorithms for
+        regression and classification, applying preprocessing techniques to
+        optimize data for desired outcomes. Recently, I have worked with
+        libraries such as TensorFlow and OpenCV for applying computer vision
+        projects, including image classification and segmentation tasks. These
+        experiences underscore my dedication to leveraging advanced technologies
+        to solve real-world problems.
       </p>
     </section>
   </section>
@@ -140,426 +153,27 @@
       Skills
     </h2>
     <br />
-    <section align="center">
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/303206/javascript-logo.svg"
-          alt="JS"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.typescriptlang.org/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/303600/typescript-logo.svg"
-          alt="TS"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.w3.org/html/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/349402/html5.svg"
-          alt="HTML5"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.w3schools.com/css/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/349330/css3.svg"
-          alt="CSS"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://reactjs.org/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/355190/reactjs.svg"
-          alt="ReactJS"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://angular.io"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/373427/angular.svg"
-          alt="AngularJS"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://getbootstrap.com"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/353498/bootstrap.svg"
-          alt="BootStrap"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://sass-lang.com"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/349502/sass.svg"
-          alt="SASS"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.cprogramming.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-          alt="C"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.python.org"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/374016/python.svg"
-          alt="Python"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.java.com"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/452234/java.svg"
-          alt="Java"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://nodejs.org/en"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg"
-          alt="NodeJs"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.php.net"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/373970/php3.svg"
-          alt="PHP"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://flask.palletsprojects.com/en/3.0.x/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png"
-          alt="Flask"
-          height="50"
-          width="50"
-          style="filter: grayscale(100%)"
-      /></a>
-      <a
-        href="https://expressjs.com"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://blog.amt.in/wp-content/uploads/2017/12/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png"
-          alt="Express"
-          height="50"
-          width="90"
-      /></a>
-      <a
-        href="https://www.apachefriends.org/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/354575/xampp.svg"
-          alt="xampp"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.mongodb.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/331488/mongodb.svg"
-          alt="mongodb"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://firebase.google.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg"
-          alt="Firebase"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.microsoft.com/en-us/sql-server"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/372910/msql-server.svg"
-          alt="MSQL"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.mysql.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/303251/mysql-logo.svg"
-          alt="MySQL"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://mariadb.org/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/354039/mariadb.svg"
-          alt="MariaDB"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://github.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/475654/github-color.svg"
-          alt="github"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://git-scm.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/452210/git.svg"
-          alt="git"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://pandas.pydata.org/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"
-          alt="Pandas"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://numpy.org/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/354127/numpy.svg"
-          alt="Numpy"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://scikit-learn.org/stable/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"
-          alt="Sci-kit learn"
-          height="50"
-          width="90"
-      /></a>
-      <a
-        href="https://www.tensorflow.org/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/375503/tensorflow-enterprise.svg"
-          alt="Tensorflow"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.jupyter.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/353949/jupyter.svg"
-          alt="jupyter"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.kaggle.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/349422/kaggle.svg"
-          alt="kaggle"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.jetbrains.com/pycharm/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/354237/pycharm.svg"
-          alt="pycharm"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://code.visualstudio.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/374171/vscode.svg"
-          alt="vscode"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://postman.com"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/354202/postman-icon.svg"
-          alt="Postman"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.alteryx.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alteryx_logo.svg/800px-Alteryx_logo.svg.png"
-          alt="Alteryx"
-          height="50"
-          width="90"
-      /></a>
-      <a
-        href="https://www.microsoft.com/en-us/microsoft-365/excel"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/452066/ms-excel.svg"
-          alt="excel"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.photoshop.com/en"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/373968/photoshop.svg"
-          alt="photoshop"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.microsoft.com/en-us/windows?r=1"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/382713/windows-applications.svg"
-          alt="Windows"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://ubuntu.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://www.svgrepo.com/show/354481/ubuntu.svg"
-          alt="Ubuntu"
-          height="50"
-          width="50"
-      /></a>
-      <a
-        href="https://www.vmware.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="margin-right: 0.5rem"
-        ><img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/600px-Vmware_workstation_16_icon.svg.png"
-          alt="vmware"
-          height="50"
-          width="50"
-      /></a>
+    <section>
+      | Front-End Development | Back-End Development | Databases            | Programming Languages |
+      |-----------------------|----------------------|----------------------|-----------------------|
+      | ![JavaScript](https://www.svgrepo.com/show/303206/javascript-logo.svg) | ![NodeJs](https://www.svgrepo.com/show/303658/nodejs-1-logo.svg)  | ![MySQL](https://www.svgrepo.com/show/303251/mysql-logo.svg) | ![Python](https://www.svgrepo.com/show/374016/python.svg)  |
+      | ![TypeScript](https://www.svgrepo.com/show/303600/typescript-logo.svg) | ![PHP](https://www.svgrepo.com/show/373970/php3.svg)    | ![SQL Server](https://www.svgrepo.com/show/372910/msql-server.svg)  | ![Java](https://www.svgrepo.com/show/452234/java.svg) |
+      | ![HTML5](https://www.svgrepo.com/show/349402/html5.svg) | ![Flask](https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png)  | ![Firebase](https://www.svgrepo.com/show/303670/firebase-1-logo.svg) | ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)  |
+      | ![CSS](https://www.svgrepo.com/show/349330/css3.svg)  | ![Express](https://blog.amt.in/wp-content/uploads/2017/12/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png) | ![MongoDB](https://www.svgrepo.com/show/331488/mongodb.svg) |   |
+      | ![ReactJS](https://www.svgrepo.com/show/355190/reactjs.svg) | | ![MariaDB](https://www.svgrepo.com/show/354039/mariadb.svg) |   |
+      | ![AngularJS](https://www.svgrepo.com/show/373427/angular.svg) | | ![XAMPP](https://www.svgrepo.com/show/354575/xampp.svg) |   |
+      | ![Bootstrap](https://www.svgrepo.com/show/353498/bootstrap.svg) | | | |
+      | ![SASS](https://www.svgrepo.com/show/349502/sass.svg) | | | |
+
+      ## Tools and Technologies
+
+      | Data Analysis         | Machine Learning and AI | Version Control      | IDEs and Editors     | Operating Systems  | Other Tools      |
+      |-----------------------|-------------------------|----------------------|----------------------|--------------------|------------------|
+      | ![Pandas](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png) | ![TensorFlow](https://www.svgrepo.com/show/375503/tensorflow-enterprise.svg) | ![Git](https://www.svgrepo.com/show/452210/git.svg) | ![PyCharm](https://www.svgrepo.com/show/354237/pycharm.svg) | ![Windows](https://www.svgrepo.com/show/382713/windows-applications.svg) | ![Postman](https://www.svgrepo.com/show/354202/postman-icon.svg) |
+      | ![NumPy](https://www.svgrepo.com/show/354127/numpy.svg) | ![Sci-kit Learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png) | ![GitHub](https://www.svgrepo.com/show/475654/github-color.svg) | ![VSCode](https://www.svgrepo.com/show/374171/vscode.svg) | ![Ubuntu](https://www.svgrepo.com/show/354481/ubuntu.svg) | ![Alteryx](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alteryx_logo.svg/800px-Alteryx_logo.svg.png) |
+      | ![Matplotlib](https://www.svgrepo.com/show/354202/postman-icon.svg) | ![OpenCV](https://www.svgrepo.com/show/354202/postman-icon.svg) | | | ![Photoshop](https://www.svgrepo.com/show/373968/photoshop.svg) | ![VMware](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/600px-Vmware_workstation_16_icon.svg.png) |
+      | ![Jupyter](https://www.svgrepo.com/show/353949/jupyter.svg) | | | | |   |
+      | ![Kaggle](https://www.svgrepo.com/show/349422/kaggle.svg) | | | | |   |
     </section>
   </section>
   <br />
