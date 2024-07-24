@@ -182,32 +182,25 @@
     </h2>
     <br />
     <section align="center">
-      <section>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMaherElSaeidi&hide_border=true&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-          width="250"
-          height="100"
-        />
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMaherElSaeidi&theme=blueberry&hide_border=true"
-          width="250"
-          height="100"
-        />
-      </section>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMaherElSaeidi&hide_progress=false&theme=merko&layout=donut"
+        width="250"
+      />
       <br />
-      <span>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=AhmedMaherElSaeidi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&hide_border=true&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-          width="500"
-        />
-      </span>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMaherElSaeidi&theme=blueberry&hide_border=true"
+        width="250"
+      />
       <br />
-      <span>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=blueberry&hide_border=true"
-          width="500"
-        />
-      </span>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=AhmedMaherElSaeidi&show_icons=true&theme=merko&include_all_commits=true"
+        width="500"
+      />
+      <br />
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=blueberry&hide_border=true"
+        width="500"
+      />
     </section>
     <br />
     <section>
