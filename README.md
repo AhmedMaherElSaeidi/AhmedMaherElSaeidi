@@ -194,7 +194,7 @@
       <br />
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=cobalt&hide_border=true"
-        width="500"
+        width="600"
       />
     </section>
     <br />
