@@ -130,8 +130,8 @@
       <p color="#a569bd">
         I possess two years of practical experience in web development,
         leveraging a diverse tech stack to deliver robust solutions. My
-        front-end expertise lies in React.js and Angular, with a strong
-        foundation in DOM manipulation. On the back-end, I'm experienced with
+        front-end expertise lies in React.js and Angular, with strong
+        foundation in DOM manipulation. On the back end, I'm experienced with
         Node.js, and PHP, ensuring seamless data communication. Furthermore, I
         have experience working with various relational (SQL) databases like
         MySQL and SQL Server, alongside NoSQL solutions like Firebase and
@@ -147,7 +147,7 @@
         experience with Selenium for Python showcases my ability to automate web
         browser interactions, streamlining testing processes. I am enthusiastic
         about expanding my expertise in Machine Learning and Deep Learning. I
-        have successfully implemented various machine learning algorithms for
+        have successfully implemented various machine-learning algorithms for
         regression and classification, applying preprocessing techniques to
         optimize data for desired outcomes. Recently, I have worked with
         libraries such as TensorFlow and OpenCV for applying computer vision
@@ -188,7 +188,7 @@
       />
       <br />
       <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=AhmedMaherElSaeidi&theme=meta-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200"
+        src="https://github-readme-streak-stats.herokuapp.com?user=AhmedMaherElSaeidi&theme=iceberg&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200"
         width="400"
       />
       <br />
