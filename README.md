@@ -183,7 +183,7 @@
     <br />
     <section align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMaherElSaeidi&hide_progress=false&theme=merko&layout=donut"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMaherElSaeidi&hide_progress=false&theme=merko&layout=donut&hide_border=true"
         width="250"
       />
       <br />
@@ -193,7 +193,7 @@
       />
       <br />
       <img
-        src="https://github-readme-stats.vercel.app/api?username=AhmedMaherElSaeidi&show_icons=true&theme=merko&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=AhmedMaherElSaeidi&show_icons=true&theme=merko&include_all_commits=true&hide_border=true"
         width="500"
       />
       <br />
