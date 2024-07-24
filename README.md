@@ -188,7 +188,7 @@
       />
       <br />
       <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=AhmedMaherElSaeidi&theme=iceberg&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200"
+        src="https://github-readme-streak-stats.herokuapp.com?user=AhmedMaherElSaeidi&theme=cobalt2&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200"
         width="400"
       />
       <br />
