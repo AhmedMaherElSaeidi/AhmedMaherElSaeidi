@@ -183,22 +183,17 @@
     <br />
     <section align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMaherElSaeidi&hide_progress=false&theme=synthwave&layout=donut&hide_border=true"
-        width="300"
-      />
-      <br />
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMaherElSaeidi&theme=synthwave&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMaherElSaeidi&hide_progress=true&theme=cobalt&layout=compact&hide_border=true"
         width="400"
       />
       <br />
       <img
-        src="https://github-readme-stats.vercel.app/api?username=AhmedMaherElSaeidi&show_icons=true&theme=synthwave&include_all_commits=true&hide_border=true"
-        width="500"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMaherElSaeidi&theme=cobalt&hide_border=true"
+        width="400"
       />
       <br />
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=synthwave&hide_border=true"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=cobalt&hide_border=true"
         width="500"
       />
     </section>
