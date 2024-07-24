@@ -184,12 +184,12 @@
     <section align="center">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMaherElSaeidi&hide_progress=false&theme=synthwave&layout=donut&hide_border=true"
-        width="500"
+        width="300"
       />
       <br />
       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMaherElSaeidi&theme=synthwave&hide_border=true"
-        width="500"
+        width="400"
       />
       <br />
       <img
@@ -215,4 +215,4 @@
       />
     </section>
   </section>
-</body>
+</body>;
