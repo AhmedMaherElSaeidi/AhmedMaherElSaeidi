@@ -183,22 +183,22 @@
     <br />
     <section align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMaherElSaeidi&hide_progress=false&theme=merko&layout=donut&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMaherElSaeidi&hide_progress=false&theme=synthwave&layout=donut&hide_border=true"
         width="250"
       />
       <br />
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMaherElSaeidi&theme=blueberry&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMaherElSaeidi&theme=synthwave&hide_border=true"
         width="250"
       />
       <br />
       <img
-        src="https://github-readme-stats.vercel.app/api?username=AhmedMaherElSaeidi&show_icons=true&theme=merko&include_all_commits=true&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=AhmedMaherElSaeidi&show_icons=true&theme=synthwave&include_all_commits=true&hide_border=true"
         width="500"
       />
       <br />
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=blueberry&hide_border=true"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=synthwave&hide_border=true"
         width="500"
       />
     </section>
@@ -215,4 +215,4 @@
       />
     </section>
   </section>
-</body>;
+</body>
