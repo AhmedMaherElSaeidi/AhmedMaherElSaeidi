@@ -183,12 +183,12 @@
     <br />
     <section align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMaherElSaeidi&hide_progress=true&theme=cobalt&layout=compact&hide_border=true"
-        width="400"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMaherElSaeidi&hide_progress=false&theme=cobalt&layout=compact&hide_border=true"
+        width="350"
       />
       <br />
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMaherElSaeidi&theme=cobalt&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com?user=AhmedMaherElSaeidi&theme=meta-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200"
         width="400"
       />
       <br />
