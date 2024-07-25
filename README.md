@@ -168,7 +168,7 @@
     </h2>
     <br />
     <section align="center">
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,angular,bootstrap,sass,python,java,c,php,nodejs,express,flask,mongodb,firebase,mysql,git,github,postman,vscode,pycharm,anaconda,scikitlearn,tensorflow,windows,ubuntu,photoshop&perline=9" />
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,angular,bootstrap,sass,python,java,c,php,nodejs,express,sequelize,flask,mongodb,firebase,mysql,git,github,postman,vscode,pycharm,anaconda,scikitlearn,tensorflow,windows,ubuntu,photoshop&perline=9" />
     </section>
   </section>
   <br />
