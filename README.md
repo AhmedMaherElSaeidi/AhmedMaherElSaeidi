@@ -119,40 +119,20 @@
     <br />
     <section align="left">
       <p color="#a569bd">
-        I'm a Software Engineer from the Faculty of Computers and Artificial
-        Intelligence at Helwan University. I graduated in May 2024 with a
-        cumulative GPA of 3.94 out of 4.00 (Excellent), and an A+ (Excellent) in
-        my graduation project which focused on the detection of blood vessels
-        within kidney tissue using computer vision. I have a robust academic
-        record, demonstrating my commitment to learning and achieving tasks and
-        a proven ability to adapt to emerging technologies quickly.
-      </p>
-      <p color="#a569bd">
-        I possess two years of practical experience in web development,
-        leveraging a diverse tech stack to deliver robust solutions. My
-        front-end expertise lies in React.js and Angular, with strong
-        foundation in DOM manipulation. On the back end, I'm experienced with
-        Node.js, and PHP, ensuring seamless data communication. Furthermore, I
-        have experience working with various relational (SQL) databases like
-        MySQL and SQL Server, alongside NoSQL solutions like Firebase and
-        MongoDB, allowing me to tailor data storage to project requirements.
-        Additionally, I've demonstrated proficiency in desktop application
-        development using Java GUI, having built a Task Manager application for
-        Ubuntu OS.
-      </p>
-      <p color="#a569bd">
-        I possess strong skills in Python, complemented by proficiency in data
-        analysis libraries such as NumPy, Pandas, and Matplotlib, enabling
-        effective data manipulation, exploration, and visualization. My
-        experience with Selenium for Python showcases my ability to automate web
-        browser interactions, streamlining testing processes. I am enthusiastic
-        about expanding my expertise in Machine Learning and Deep Learning. I
-        have successfully implemented various machine-learning algorithms for
-        regression and classification, applying preprocessing techniques to
-        optimize data for desired outcomes. Recently, I have worked with
-        libraries such as TensorFlow and OpenCV for applying computer vision
-        projects, including image classification and segmentation tasks. These
-        experiences underscore my dedication to leveraging advanced technologies
+        I am a recent graduate from the Faculty of Computers and Artificial
+        Intelligence at Helwan University with a strong academic record. My
+        graduation project focused on using computer vision to detect blood
+        vessels within kidney tissue. I have two and ha half years of experience
+        in web development, with expertise in React.js, Angular, Node.js, and
+        PHP. I am skilled in working with both relational and NoSQL databases.
+        In addition, I have experience in desktop application development using
+        Java GUI. I am proficient in Python and have worked with data analysis
+        libraries such as NumPy, Pandas, and Matplotlib. My expertise also
+        includes automation using Selenium for Python and implementing
+        machine-learning algorithms for regression and classification. I have
+        recently been working on computer vision projects using TensorFlow and
+        OpenCV for tasks such as image classification and segmentation. My
+        experiences highlight my commitment to leveraging advanced technologies
         to solve real-world problems.
       </p>
     </section>
@@ -168,7 +148,9 @@
     </h2>
     <br />
     <section align="center">
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,angular,bootstrap,sass,python,java,c,php,nodejs,express,sequelize,flask,mongodb,firebase,mysql,git,github,postman,vscode,pycharm,anaconda,scikitlearn,tensorflow,windows,ubuntu,photoshop&perline=9" />
+      <img
+        src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,angular,bootstrap,sass,python,java,c,php,nodejs,express,sequelize,flask,mongodb,firebase,mysql,git,github,postman,vscode,pycharm,anaconda,scikitlearn,tensorflow,windows,ubuntu,photoshop&perline=9"
+      />
     </section>
   </section>
   <br />
