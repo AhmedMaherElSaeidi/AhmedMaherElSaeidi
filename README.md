@@ -24,46 +24,46 @@
     </h2>
     <br />
     <section align="center">
-      <span>
+      <label>
         <a href="https://kaggle.com/ahmedmaherelsaeidy" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmedmaherelsaeidy kaggle" height="30" width="40" />
         </a>
-      </span>
-      <span>
+      </label>
+      <label>
         <a href="https://linkedin.com/in/ahmedmaherelsaeidi" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedmaherelsaeidi linkedin" height="30" width="30" />
         </a>
-      </span>
-      <span>
+      </label>
+      <label>
         <a href="https://www.hackerrank.com/ahmedelseaidy22?hr_r=1" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ahmedelseaidy22?hr_r=1" height="30" width="30" />
         </a>
-      </span>
-      <span>
+      </label>
+      <label>
         <a href="https://www.facebook.com/AhmedMaherElSaeidi/" target="_blank">
           <img src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="AhmedMaherElSaeidi facebook" height="30" width="30" />
         </a>
-      </span>
-      <span>
+      </label>
+      <label>
         <a href="https://instagram.com/ahmed_elsaeidi" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_elsaeidi instagram" height="30" width="30" />
         </a>
-      </span>
-      <span>
+      </label>
+      <label>
         <a href="https://twitter.com/_Ahmed__Maher" target="_blank">
           <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="_Ahmed__Maher twitter" height="30" width="30" />
         </a>
-      </span>
-      <span>
+      </label>
+      <label>
         <a href="https://www.youtube.com/channel/UCL3Kf6BwwiZyN723LfiEsCA" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucl3kf6bwwizyn723lfiesca" height="30" width="40" />
         </a>
-      </span>
-      <span>
+      </label>
+      <label>
         <a href="https://open.spotify.com/user/ahmedmaher69?fbclid=IwAR3POfVPAYSua3RBoNrrkGnAca7e23UVCq8FoDl2MxII5PEG7Mw1pjkVglE" target="_blank">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="ahmedmaher69" height="30" width="30" />
         </a>
-      </span>
+      </label>
     </section>
   </section>
   <br />
