@@ -18,7 +18,7 @@
     <h2>
       <img
         src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWw4MXgxYnYyZmFqOGZ4ODdqOXM5N2p6NTNiZmN1aWQzdm9zaTQxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.gif"
-        width="50px"
+        width="25px"
       />
       Connect with me
     </h2>
