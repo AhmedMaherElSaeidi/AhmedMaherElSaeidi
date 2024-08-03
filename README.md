@@ -16,7 +16,10 @@
   <br />
   <section align="left">
     <h2>
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenA0YmV3bm52NXVpYm1wdnlka3A3bmN1a3IzOHUxMzFuNDM3cWVrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="50px" />
+      <img
+        src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGR6d3FwdjdlYzl3M2U1YXR0ODVqdmZiZXp4eGY3dGJrcmxtM2plbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GbxZdp9V9TojWhTFeK/giphy.gif"
+        width="50px"
+      />
       Connect with me
     </h2>
     <br />
