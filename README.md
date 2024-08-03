@@ -58,8 +58,6 @@
             />
           </a>
         </td>
-      </tr>
-      <tr>
         <td>
           <a
             href="https://www.facebook.com/AhmedMaherElSaeidi/"
@@ -93,8 +91,6 @@
             />
           </a>
         </td>
-      </tr>
-      <tr>
         <td>
           <a
             href="https://open.spotify.com/user/ahmedmaher69?fbclid=IwAR3POfVPAYSua3RBoNrrkGnAca7e23UVCq8FoDl2MxII5PEG7Mw1pjkVglE"
