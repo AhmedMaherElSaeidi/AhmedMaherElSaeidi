@@ -119,10 +119,10 @@
     <br />
     <section align="left">
       <p color="#a569bd">
-        I am a recent graduate from the Faculty of Computers and Artificial
+        I am a software engineer from the Faculty of Computers and Artificial
         Intelligence at Helwan University with a strong academic record. My
         graduation project focused on using computer vision to detect blood
-        vessels within kidney tissue. I have two and ha half years of experience
+        vessels within kidney tissue. I have two and a half years of experience
         in web development, with expertise in React.js, Angular, Node.js, and
         PHP. I am skilled in working with both relational and NoSQL databases.
         In addition, I have experience in desktop application development using
