@@ -24,6 +24,10 @@
     </h2>
     <br />
     <section align="center">
+      [![GitHub](https://image.flaticon.com/icons/png/512/25/25231.png)](https://github.com)
+[![LinkedIn](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com)
+[![Twitter](https://image.flaticon.com/icons/png/512/733/733579.png)](https://twitter.com)
+
        <span>
           <p>
             <a href="https://kaggle.com/ahmedmaherelsaeidy" target="_blank">
