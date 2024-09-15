@@ -162,7 +162,7 @@
     <br />
     <section align="center">
       <img
-        src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,angular,bootstrap,sass,python,java,c,php,nodejs,express,sequelize,flask,mongodb,firebase,mysql,postgres,git,github,postman,vscode,pycharm,anaconda,scikitlearn,tensorflow,windows,ubuntu,photoshop,discord,gmail,instagram,npm,twitter,linkedin&perline=9&theme=light"
+        src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,angular,bootstrap,sass,python,java,c,php,nodejs,express,sequelize,flask,mongodb,firebase,mysql,postgres,git,github,postman,vscode,pycharm,anaconda,scikitlearn,tensorflow,windows,ubuntu,photoshop,discord,gmail,instagram,npm,twitter,LinkedIn,powershell&perline=9&theme=light"
       />
     </section>
   </section>
