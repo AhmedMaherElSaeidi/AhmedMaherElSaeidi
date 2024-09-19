@@ -123,10 +123,11 @@
   <br />
   <section align="left">
     <h2>
-      <img
-        src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"
-        width="35"
-      />
+                  <img
+              src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"
+              alt="about_me"
+              width="35"
+            />
       About me
     </h2>
     <br />
