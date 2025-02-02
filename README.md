@@ -191,8 +191,6 @@
     <br />
     <section>
       <img src="./gif/horizontal_line.gif" width="100%" />
-      <br clear="both"/>
-      <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" / >
       <br />
       <img src="./image/footer.png" width="100%" />
     </section>
