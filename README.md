@@ -183,8 +183,6 @@
         width="350"
       />
       <br />
-      <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-      <br />
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=cobalt&hide_border=true"
         width="600"
@@ -193,7 +191,7 @@
     <br />
     <section>
       <img src="./gif/horizontal_line.gif" width="100%" />
-      <br />
+      <br clear="both"/>
       <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" / >
       <br />
       <img src="./image/footer.png" width="100%" />
