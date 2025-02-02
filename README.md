@@ -182,8 +182,6 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMaherElSaeidi&hide_progress=false&theme=cobalt&layout=compact&hide_border=true"
         width="350"
       />
-      <br clear="both">
-      <img src="https://raw.githubusercontent.com/AhmedMaherElSaeidi/AhmedMaherElSaeidi/output/snake.svg" alt="Snake animation" />
       <br />
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=cobalt&hide_border=true"
