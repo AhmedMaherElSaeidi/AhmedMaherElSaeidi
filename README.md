@@ -183,10 +183,7 @@
         width="350"
       />
       <br />
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=AhmedMaherElSaeidi&theme=cobalt2&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200"
-        width="400"
-      />
+      <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
       <br />
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=cobalt&hide_border=true"
