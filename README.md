@@ -181,12 +181,10 @@
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMaherElSaeidi&hide_progress=false&theme=cobalt&layout=compact&hide_border=true"
         width="350"
-        height="500"
       />
       <img
         src="https://github-readme-stats.vercel.app/api?username=AhmedMaherElSaeidi&include_all_commits=true&count_private=true&show_icons=true&theme=cobalt&hide_border=true"
         width="350"
-        height="500"
       />
       <br />
       <img
