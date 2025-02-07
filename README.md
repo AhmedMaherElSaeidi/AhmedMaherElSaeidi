@@ -182,7 +182,6 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMaherElSaeidi&hide_progress=false&theme=cobalt&layout=compact&hide_border=true"
         width="350"
       />
-      <br />
       <img
         src="https://github-readme-stats.vercel.app/api?username=AhmedMaherElSaeidi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=cobalt&hide_border=true"
         width="350"
@@ -190,7 +189,7 @@
       <br />
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=cobalt&hide_border=true"
-        width="600"
+        width="700"
       />
     </section>
     <br />
