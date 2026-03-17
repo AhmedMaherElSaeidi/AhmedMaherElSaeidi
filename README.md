@@ -128,7 +128,7 @@
     <br />
     <section align="left">
       <p color="#a569bd">
-        I am a software engineer from the Faculty of Computers and Artificial
+        A software engineer graduated from the Faculty of Computers and Artificial
         Intelligence at Helwan University with a strong academic record. My
         graduation project focused on using computer vision to detect blood
         vessels within kidney tissue. I have two and a half years of experience
