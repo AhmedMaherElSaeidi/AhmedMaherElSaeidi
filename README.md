@@ -17,9 +17,7 @@
       />
       Connect with me
     </h2>
-    
-    <br />
-    <div align="center">
+<br/>    <div align="center">
             <a
               href="https://www.hackerrank.com/ahmedelseaidy22?hr_r=1"
               target="_blank"
