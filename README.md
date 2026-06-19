@@ -17,7 +17,6 @@
       />
       Connect with me
     </h2>
-    <hr/>
     <div align="center">
             <a
               href="https://www.hackerrank.com/ahmedelseaidy22?hr_r=1"
@@ -59,7 +58,7 @@
             </a>&nbsp;&nbsp;&nbsp;
             <a href="https://twitter.com/_Ahmed__Maher" target="_blank">
               <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"
+                src="./svg/Xtwitter.svg"
                 alt="_Ahmed__Maher twitter"
                 height="30"
                 width="30"
@@ -109,7 +108,6 @@
             />
       About me
     </h2>
-    <hr/>
     <br />
     <section align="left">
       <p color="#a569bd">
@@ -140,7 +138,6 @@
       />
       Skills
     </h2>
-    <hr/>
     <br />
     <section align="center">
       <img
@@ -157,7 +154,6 @@
       />
       GitHub stats
     </h2>
-    <hr/>
     <br />
     <section align="center">
       <img
