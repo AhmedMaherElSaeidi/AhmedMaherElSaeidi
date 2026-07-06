@@ -157,17 +157,10 @@
     <br />
     <section align="center">
       <img
- src="https://github-stats-extended.vercel.app/api?username=AhmedMaherElSaeidi&show_icons=true&theme=cobalt&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
-        width="350"
+        src="https://github-stats-extended.vercel.app/api?username=AhmedMaherElSaeidi&rank_icon=github&show_icons=true&include_all_commits=true&theme=catppuccin_latte"
       />
       <img
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=AhmedMaherElSaeidi&hide_progress=false&theme=cobalt&layout=donut&hide_border=true"
-        width="350"
-      />
-      <br />
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherElSaeidi&theme=cobalt&hide_border=true"
-        width="700"
+        src="https://github-stats-extended.vercel.app/api/top-langs? username=AhmedMaherElSaeidi&layout=compact&langs_count=5&hide_values=true&theme=catppuccin_latte"
       />
     </section>
     <br />
