@@ -111,21 +111,7 @@
     <br />
     <section align="left">
       <p color="#a569bd">
-        A software engineer graduated from the Faculty of Computers and Artificial
-        Intelligence at Helwan University with a strong academic record. My
-        graduation project focused on using computer vision to detect blood
-        vessels within kidney tissue. I have +2 years of experience
-        in web development, with expertise in React.js, Angular, Node.js, and
-        PHP. I am skilled in working with both relational and NoSQL databases.
-        In addition, I have experience in desktop application development using
-        Java GUI. I am proficient in Python and have worked with data analysis
-        libraries such as NumPy, Pandas, and Matplotlib. My expertise also
-        includes automation using Selenium for Python and implementing
-        machine-learning algorithms for regression and classification. I have
-        recently been working on computer vision projects using TensorFlow and
-        OpenCV for tasks such as image classification and segmentation. My
-        experiences highlight my commitment to leveraging advanced technologies
-        to solve real-world problems.
+Software Engineer with a solid foundation in software development and a passion for problem-solving. Over 2+ years of full-stack development experience, including 1 year working with AI, building scalable REST APIs, responsive frontends, and managing relational and NoSQL databases using JavaScript and Python. Skilled in Agile collaboration and Git version control, with expertise spanning both technical and cross-functional environments. CGPA: 3.94/4.00, Helwan University.
       </p>
     </section>
   </section>
