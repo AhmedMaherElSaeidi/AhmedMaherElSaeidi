@@ -113,6 +113,35 @@
       <p color="#a569bd">
 Software Engineer with a solid foundation in software development and a passion for problem-solving. Over 2+ years of full-stack development experience, including 1 year working with AI, building scalable REST APIs, responsive frontends, and managing relational and NoSQL databases using JavaScript and Python. Skilled in Agile collaboration and Git version control, with expertise spanning both technical and cross-functional environments. CGPA: 3.94/4.00, Helwan University.
       </p>
+
+      ## Connect with me
+
+<p align="left">
+  <a href="https://www.hackerrank.com/ahmedelseaidy22?hr_r=1" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" border="0" alt="HackerRank" height="32" />
+  </a>
+  <a href="https://kaggle.com/ahmedmaherelsaeidy" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" border="0" alt="Kaggle" height="32" />
+  </a>
+  <a href="https://linkedin.com/in/ahmedmaherelsaeidi" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" border="0" alt="LinkedIn" height="32" />
+  </a>
+  <a href="https://www.facebook.com/AhmedMaherElSaeidi/" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" border="0" alt="Facebook" height="32" />
+  </a>
+  <a href="https://twitter.com/_Ahmed__Maher" style="text-decoration:none;">
+    <img src="https://github.com/AhmedMaherElSaeidi/AhmedMaherElSaeidi/raw/main/svg/Xtwitter.svg" border="0" alt="X / Twitter" height="32" />
+  </a>
+  <a href="https://instagram.com/ahmed_elsaeidi" style="text-decoration:none;">
+    <img src="https://github.com/AhmedMaherElSaeidi/AhmedMaherElSaeidi/raw/main/svg/instagram.svg" border="0" alt="Instagram" height="32" />
+  </a>
+  <a href="https://open.spotify.com/user/ahmedmaher69?fbclid=IwAR3POfVPAYSua3RBoNrrkGnAca7e23UVCq8FoDl2MxII5PEG7Mw1pjkVglE" style="text-decoration:none;">
+    <img src="https://github.com/AhmedMaherElSaeidi/AhmedMaherElSaeidi/raw/main/svg/spotify.svg" border="0" alt="Spotify" height="32" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCL3Kf6BwwiZyN723LfiEsCA" style="text-decoration:none;">
+    <img src="https://github.com/AhmedMaherElSaeidi/AhmedMaherElSaeidi/raw/main/svg/youtube.svg" border="0" alt="YouTube" height="32" />
+  </a>
+</p>
     </section>
   </section>
   <br />
