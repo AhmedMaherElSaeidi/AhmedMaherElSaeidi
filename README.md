@@ -1,7 +1,7 @@
 <body>
   <section align="center">
     <div>
-      <img
+      <a
         src="https://komarev.com/ghpvc/?username=ahmedmaherelsaeidi&label=Profile%20views&color=A569BD&style=flat"
         alt="ahmedmaherelsaeidi"
       />
