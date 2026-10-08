@@ -1,6 +1,8 @@
 <body>
   <section align="center">
+    <div>
       <img src="https://komarev.com/ghpvc/?username=ahmedmaherelsaeidi&label=Profile%20views&color=A569BD&style=flat)"/>
+    </div>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&duration=3000&pause=2500&color=A569BD&center=true&vCenter=true&multiline=true&width=720&height=90&lines=Hi%2C+I'm+Ahmed+Maher+%F0%9F%91%8B%F0%9F%8F%BB;A+Software+Engineer+from+Egypt" alt="Typing SVG" /></a>
   </section>
     <br />
