@@ -136,11 +136,12 @@ Software Engineer with a solid foundation in software development and a passion 
     </h2>
     <br />
     <section align="center">
-        <div><img
+        <span><img
           src="https://github-stats-extended.vercel.app/api?username=AhmedMaherElSaeidi&rank_icon=github&show_icons=true&include_all_commits=true&theme=catppuccin_latte"
-        /></div><div><img
+        /></span>
+      <span><img
           src="https://github-stats-extended.vercel.app/api/top-langs?username=AhmedMaherElSaeidi&layout=compact&langs_count=5&hide_values=true&theme=catppuccin_latte"
-        /></div>
+        /></span>
   </section>
     <br />
     <section>
