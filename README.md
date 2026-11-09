@@ -1,7 +1,7 @@
 <body>
   <section align="center">
-    <div><img src="https://komarev.com/ghpvc/?username=ahmedmaherelsaeidi&label=Profile%20views&color=A569BD&style=flat"/></div>
-    <div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&duration=3000&pause=2500&color=A569BD&center=true&vCenter=true&multiline=true&width=720&height=90&lines=Hi%2C+I'm+Ahmed+Maher+%F0%9F%91%8B%F0%9F%8F%BB;A+Software+Engineer+from+Egypt" alt="Typing SVG" /></a></div>
+    <div><img src="https://komarev.com/ghpvc/?username=ahmedmaherelsaeidi&label=Profile%20views&color=#478778&style=flat"/></div>
+    <div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&duration=3000&pause=2500&color=478778&center=true&vCenter=true&multiline=true&width=720&height=90&lines=Hi%2C+I'm+Ahmed+Maher+%F0%9F%91%8B%F0%9F%8F%BB;A+Software+Engineer+from+Egypt" alt="Typing SVG" /></a></div>
         <section align="left">
       <p color="#a569bd">
 Software Engineer with a solid foundation in software development and a passion for problem-solving. Over 2+ years of full-stack development experience, including 1 year working with AI, building scalable REST APIs, responsive frontends, and managing relational and NoSQL databases using JavaScript and Python. Skilled in Agile collaboration and Git version control, with expertise spanning both technical and cross-functional environments. CGPA: 3.94/4.00, Helwan University.
